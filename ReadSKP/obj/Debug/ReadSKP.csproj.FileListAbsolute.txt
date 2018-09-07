@@ -1,0 +1,13 @@
+C:\Users\huyskke\Documents\VS Projects\ReadSKP\ReadSKP\bin\Debug\ReadSKP.exe.config
+C:\Users\huyskke\Documents\VS Projects\ReadSKP\ReadSKP\bin\Debug\ReadSKP.exe
+C:\Users\huyskke\Documents\VS Projects\ReadSKP\ReadSKP\bin\Debug\ReadSKP.pdb
+C:\Users\huyskke\Documents\VS Projects\ReadSKP\ReadSKP\obj\Debug\ReadSKP.csprojAssemblyReference.cache
+C:\Users\huyskke\Documents\VS Projects\ReadSKP\ReadSKP\obj\Debug\ReadSKP.Form1.resources
+C:\Users\huyskke\Documents\VS Projects\ReadSKP\ReadSKP\obj\Debug\ReadSKP.Properties.Resources.resources
+C:\Users\huyskke\Documents\VS Projects\ReadSKP\ReadSKP\obj\Debug\ReadSKP.csproj.GenerateResource.cache
+C:\Users\huyskke\Documents\VS Projects\ReadSKP\ReadSKP\obj\Debug\ReadSKP.csproj.CoreCompileInputs.cache
+C:\Users\huyskke\Documents\VS Projects\ReadSKP\ReadSKP\obj\Debug\ReadSKP.exe
+C:\Users\huyskke\Documents\VS Projects\ReadSKP\ReadSKP\obj\Debug\ReadSKP.pdb
+C:\Users\huyskke\Documents\VS Projects\ReadSKP\ReadSKP\bin\Debug\SketchUpNET.dll
+C:\Users\huyskke\Documents\VS Projects\ReadSKP\ReadSKP\bin\Debug\SketchUpNET.pdb
+C:\Users\huyskke\Documents\VS Projects\ReadSKP\ReadSKP\obj\Debug\ReadSKP.csproj.CopyComplete

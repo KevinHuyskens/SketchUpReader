@@ -1,0 +1,10 @@
+C:\Users\Kevin\Documents\VS Projects\ReadSKP\ReadSKPConsole\bin\x64\Debug\ReadSKPConsole.exe.config
+C:\Users\Kevin\Documents\VS Projects\ReadSKP\ReadSKPConsole\bin\x64\Debug\ReadSKPConsole.exe
+C:\Users\Kevin\Documents\VS Projects\ReadSKP\ReadSKPConsole\bin\x64\Debug\ReadSKPConsole.pdb
+C:\Users\Kevin\Documents\VS Projects\ReadSKP\ReadSKPConsole\bin\x64\Debug\SketchUpNET.dll
+C:\Users\Kevin\Documents\VS Projects\ReadSKP\ReadSKPConsole\bin\x64\Debug\SketchUpNET.pdb
+C:\Users\Kevin\Documents\VS Projects\ReadSKP\ReadSKPConsole\obj\x64\Debug\ReadSKPConsole.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Documents\VS Projects\ReadSKP\ReadSKPConsole\obj\x64\Debug\ReadSKPConsole.csproj.CopyComplete
+C:\Users\Kevin\Documents\VS Projects\ReadSKP\ReadSKPConsole\obj\x64\Debug\ReadSKPConsole.exe
+C:\Users\Kevin\Documents\VS Projects\ReadSKP\ReadSKPConsole\obj\x64\Debug\ReadSKPConsole.pdb
+C:\Users\Kevin\Documents\VS Projects\ReadSKP\ReadSKPConsole\obj\x64\Debug\ReadSKPConsole.csprojAssemblyReference.cache
